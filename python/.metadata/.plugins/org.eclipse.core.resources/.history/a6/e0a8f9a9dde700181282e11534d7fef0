@@ -1,0 +1,86 @@
+# coding=gbk
+import pytest 
+import smtplib
+import time
+from selenium import webdriver
+#     
+# @pytest.fixture()
+# def login():
+#     driver=webdriver.Firefox()
+#     driver.get("https://www.baidu.com/")
+#     print("登录")
+#     yield 
+#     print("执行完毕")
+#     driver.quit()
+# class Test_Three():   
+#     def setup_class(self):
+#         print("打开浏览器")
+#     def test_one(self,login):
+#         print(1)
+#     def test_three(self):
+#         assert 3==3
+#     def test_two(self,login):
+#         print(2)
+#     def teardown_class(self):
+#         print("关闭浏览器")
+# if __name__=="__main__":
+#     pytest.main(["-x","-s","Test_Three.py"])  
+
+# @pytest.fixture(scope="function",autouse=True)
+# def start():
+#     print("开始执行function")
+#     print("xxxxx")
+#     yield
+#     print("结束测试")
+# 
+# class Test_a():
+#     @pytest.mark.usefixures("start")
+#     def test_01(self):
+#         print("用例1")
+#     def test_02(self):
+#         print("用例2")
+# if __name__=="__main__":
+#     pytest.main(["-x","-s","Test_Three.py"]) 
+
+#参数化parametrize
+# @pytest.mark.parametrize("test_input,expected",
+#                          [("3+5",8),
+#                           ("2+4",6),
+#                           ("6*0",0),
+#                           #标记为失败的用例就不运行了，直接跳过显示xfaild 内置函数mark.xfail
+#                           pytest.param('6*0',1,marks=pytest.mark.xfail)
+#                           ])
+# 
+# def test_eval(test_input,expected):
+#     assert eval(test_input)==expected
+# if __name__=="__main__":
+#     pytest.main(["-x","-s","Test_Three.py"])  
+
+# @pytest.mark.parametrize("x",[0,1]) 
+# @pytest.mark.parametrize("y",[0,1])
+# 
+# def test_01(x,y):
+#     print(x,y)
+#     print(x==y)
+# if __name__=="__main__":
+#     pytest.main(["-x","-s","Test_Three.py"])   
+
+# 
+# def f():
+#     return 3
+# def test_one():
+#     a = f()
+#     print(a)
+#     assert a%3==0 ,"判断a是否是偶数当前a的值是：%s"%a#错误是弹出提示
+# if __name__=="__main__":
+#     pytest.main(["-x","-s","Test_Three.py"])   
+
+def test_zero_division():
+    with pytest.raises(ZeroDivisionError) as f :
+        1/1
+    assert f.Type==ZeroDivisionError
+    assert "division by zero" in str(f.Value)
+    
+if __name__=="__main__":
+    pytest.main(["-x","-s","Test_Three.py"])         
+        

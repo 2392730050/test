@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\logintest\com.python.pydev.analysis\v2_indexcache
+a.a1|1542598666123922000|D:\python\logintest\src\a\a1.py
+a.a2|1542606061595436000|D:\python\logintest\src\a\a2.py
+a.a3|1542941220296796000|D:\python\logintest\src\a\a3.py
+a.__init__|1542272316158291000|D:\python\logintest\src\a\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=a.a1
+1=a.a2
+4=login_page.url
+5=test_login.setUp
+3=login_page
+6=test_login
+-- END DICTIONARY
+-- START TREE 1
+5
+fil|1|filename!11@
+log|1|login_page!17@
+now|1|now!11@
+sui|1|suite!11@
+tes|1|test_login!9@
+-- END TREE
+-- START TREE 2
+10
+__c|1|__call__!3&18@
+dri|1|driver!4&19@
+isv|1|isval!5&11@
+log|23|logig_clic!3&18@login_VerificationCode!3&19@login_name2!5&11@login_admin!3&18@login_name!5&11@login_powd!3&18@login_name3!5&11@logig_clic1!3&18@loginname_null!3&18@login_click!3&19@login_fail!3&19@login_numbernull!3&19@login_pwd1!5&11@loginpwd_null!3&18@Login_failure!3&18@login_url!3&19@login_pwd2!5&11@login_Verification1!3&19@login_pwd!5&11@login_name1!5&11@login_name!3&19@login_pwd!3&19@login_pwd3!5&11@
+p1|1|p1!5&11@
+qui|1|quit!3&18@
+set|1|setUp!6&10@
+tea|1|tearDown!6&10@
+tes|4|test_4!6&10@test_2!6&10@test_1!6&10@test_3!6&10@
+url|1|url!3&18@
+-- END TREE

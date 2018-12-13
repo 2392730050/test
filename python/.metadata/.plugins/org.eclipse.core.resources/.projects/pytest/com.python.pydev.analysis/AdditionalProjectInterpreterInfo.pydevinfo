@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\pytest\com.python.pydev.analysis\v2_indexcache
+test_first.__init__|1541665598616760000|D:\python\pytest\src\test_first\__init__.py
+test_first.test_one|1541992301696321000|D:\python\pytest\src\test_first\test_one.py
+test_first.Test_Three|1542267509925390000|D:\python\pytest\src\test_first\Test_Three.py
+test_first.test_two|1542012386543560000|D:\python\pytest\src\test_first\test_two.py
+test_first.conftest|1542073699943531000|D:\python\pytest\src\test_first\conftest.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=test_first.test_two
+1=test_first.conftest
+-- END DICTIONARY
+-- START TREE 1
+2
+log|1|login!10@
+tes|3|test_two!18@test_one!18@test_two1!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

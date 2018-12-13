@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="0" failures="0" finished="true" name="Test Run: 53" tests="2" total_time="Finished in: 0.82 secs."/>
+<test location="D:\python\requests1\test\test_request\request_case.py" status="ok" test="request_case.test_one" time="0.51">
+<stdout><![CDATA[https://www.apiopen.top/createUser?key=00d91e8e0cca2b76f515926a36db68f5&&phone=1778158785&passwd=123456
+{"code":202,"msg":"&#29992;&#25143;&#24050;&#27880;&#20876;&#65281;","data":null}
+&#38142;&#25509;&#22833;&#36133;
+close
+]]></stdout>
+<stderr/>
+</test>
+<test location="D:\python\requests1\test\test_request\request_case.py" status="ok" test="request_case.test_two" time="0.31">
+<stdout><![CDATA[{"code":200,"msg":"&#25104;&#21151;!","data":{"key":"00d91e8e0cca2b76f515926a36db68f5","phone":"18752462342","name":null,"passwd":"123654","text":null,"img":null,"other":null,"other2":null,"createTime":"2018-12-04 13:36:03"}}
+https://www.apiopen.top/createUser?key=00d91e8e0cca2b76f515926a36db68f5&&phone=18752462342&passwd=123654
+close
+]]></stdout>
+<stderr/>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="requests1 request_case.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

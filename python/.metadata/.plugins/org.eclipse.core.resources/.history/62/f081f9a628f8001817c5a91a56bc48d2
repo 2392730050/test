@@ -1,0 +1,12 @@
+# coding=gbk
+import time
+import unittest
+from BeautifulReport import BeautifulReport 
+
+test_dir='./test_request'
+discover=unittest.defaultTestLoader.discover(test_dir, pattern='test_*.py' )
+
+if __name__ == "__main__":
+    now=time.strftime("%Y-%m-%d %H_%M_%S")
+    filename=now +'注册接口测试报告.html'
+    BeautifulReport(discover).report(description="接口注册测试", filename=filename, log_path="D:\BeautifulReport")

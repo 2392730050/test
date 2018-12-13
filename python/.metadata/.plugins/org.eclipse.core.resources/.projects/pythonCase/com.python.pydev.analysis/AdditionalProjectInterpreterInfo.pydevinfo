@@ -1,0 +1,58 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\pythonCase\com.python.pydev.analysis\v2_indexcache
+BBS.__init__|1514802289058107000|D:\java note\pythonCase\src\BBS\__init__.py
+thread.__init__|1515856173681799000|D:\java note\pythonCase\src\thread\__init__.py
+thread.abc|1514796390808016000|D:\java note\pythonCase\src\thread\abc.py
+cookie|1513431473665158000|D:\java note\pythonCase\src\cookie.py
+BBS.Parameterization|1514809774847077000|D:\java note\pythonCase\src\BBS\Parameterization.py
+thread.Threadclass|1514797137038937000|D:\java note\pythonCase\src\thread\Threadclass.py
+thread.Multithread|1514706995310521000|D:\java note\pythonCase\src\thread\Multithread.py
+BBS.search|1525356214018955000|D:\java note\pythonCase\src\BBS\search.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+1=BBS.__init__
+14=serch
+2=cookie
+5=BBS.Parameterization
+4=thread.Multithread
+12=thread
+9=Parameterization
+7=BBS.search
+6=thread.__init__
+13=BBS
+3=thread.abc
+8=thread.Threadclass
+11=BBS.setUp
+10=serch.setUp
+-- END DICTIONARY
+-- START TREE 1
+16
+bbs|1|BBS!9@
+dri|1|driver!19@
+fil|1|files!27@
+lis|1|lists!27@
+mov|2|move!34@movie!26@
+mus|2|music!26@music!34@
+p1|2|p1!43@p1!51@
+par|1|Parameterization!41@
+pla|1|play!26@
+run|2|runner!11@runner!59@
+ser|1|serch!57@
+sui|2|suite!11@suite!59@
+t|1|t!27@
+t1|1|t1!35@
+t2|1|t2!35@
+thr|4|threads!35@threads!27@thread!49@Threadclass!65@
+-- END TREE
+-- START TREE 2
+7
+adm|1|admin!9&42@
+dri|2|driver!10&59@driver!11&11@
+mov|1|movie!12&50@
+mus|1|music!12&50@
+set|2|setUp!13&10@setUp!14&58@
+tea|2|tearDown!13&10@tearDown!14&58@
+tes|2|test_add!14&58@test_add!13&10@
+-- END TREE

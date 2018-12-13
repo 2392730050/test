@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="0" failures="0" finished="true" name="Test Run: 60" tests="1" total_time="Finished in: 0.44 secs."/>
+<test location="D:\python\requests1\test\test_request\test_login.py" status="ok" test="test_login.test_login1" time="0.44">
+<stdout><![CDATA[https://www.apiopen.top/login?key=00d91e8e0cca2b76f515926a36db68f5&&phone=13594347817&passwd=123456
+{"code":200,"msg":"&#25104;&#21151;!","data":{"key":"00d91e8e0cca2b76f515926a36db68f5","phone":"13594347817","name":"peakchao","passwd":"123456","text":"&#36825;&#26159;&#25105;&#30340;&#31614;&#21517;&#12290;","img":"https://res.apiopen.top/2018031820405521.key.png","other":"&#36825;&#26159;&#25105;&#30340;&#22791;&#27880;&#20449;&#24687;1","other2":"&#36825;&#26159;&#25105;&#30340;&#22791;&#27880;&#20449;&#24687;2","createTime":"2018-03-18 20:40:55"}}
+&#30331;&#24405;&#22833;&#36133;
+&#36816;&#34892;&#32467;&#26463;&#20851;&#38381;&#29992;&#20363;
+]]></stdout>
+<stderr/>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="requests1 test_login.py (1)"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

@@ -1,0 +1,612 @@
+1542272963013	geckodriver	INFO	Listening on 127.0.0.1:54165
+1542272966068	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.FFCsIQXgSEjT
+1542272966070	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542272966078	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54178
+1542272966855	Marionette	INFO	Listening on port 54178
+1542273035464	geckodriver	INFO	Listening on 127.0.0.1:54291
+1542273038540	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.DXs3Aai8S8pH
+1542273038544	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542273038556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54303
+1542273039438	Marionette	INFO	Listening on port 54303
+1542273253494	geckodriver	INFO	Listening on 127.0.0.1:54613
+1542273256569	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.I6yidgdBrmB9
+1542273256572	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542273256578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54627
+1542273257580	Marionette	INFO	Listening on port 54627
+1542273761656	geckodriver	INFO	Listening on 127.0.0.1:55514
+1542273764718	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MSPxjDBgklbV
+1542273764720	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542273764727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55526
+1542273765634	Marionette	INFO	Listening on port 55526
+1542327934667	geckodriver	INFO	Listening on 127.0.0.1:49682
+1542327937627	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.urWSXh1BQakM
+1542327937637	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542327937637	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49690
+1542327938687	Marionette	INFO	Listening on port 49690
+1542328167425	geckodriver	INFO	Listening on 127.0.0.1:49751
+1542328170448	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Q8TU1Fm1DLDG
+1542328170449	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542328170453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49767
+1542328171471	Marionette	INFO	Listening on port 49767
+1542328200638	geckodriver	INFO	Listening on 127.0.0.1:49876
+1542328203713	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.EJzt3qtWPwax
+1542328203715	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542328203721	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49884
+1542328204565	Marionette	INFO	Listening on port 49884
+1542328259382	geckodriver	INFO	Listening on 127.0.0.1:49921
+1542328262452	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pS0PCQ2LyW0d
+1542328262452	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542328262452	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49929
+1542328263429	Marionette	INFO	Listening on port 49929
+1542328302959	geckodriver	INFO	Listening on 127.0.0.1:49965
+1542328306029	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.1kTSJoMpll5m
+1542328306029	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542328306039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49973
+1542328307006	Marionette	INFO	Listening on port 49973
+1542331988407	geckodriver	INFO	Listening on 127.0.0.1:52420
+1542331991488	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.DA8HmNcMma63
+1542331991492	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542331991501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52429
+1542331992390	Marionette	INFO	Listening on port 52429
+1542336471504	geckodriver	INFO	Listening on 127.0.0.1:56240
+1542336474558	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.d1GVfcgsk8YK
+1542336474560	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542336474566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56249
+1542336475480	Marionette	INFO	Listening on port 56249
+1542336552763	geckodriver	INFO	Listening on 127.0.0.1:56327
+1542336555835	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.XMJHM2phrNQq
+1542336555837	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542336555844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56336
+1542336556791	Marionette	INFO	Listening on port 56336
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542337284879	geckodriver	INFO	Listening on 127.0.0.1:56940
+1542337287951	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.YQURZOOzATOt
+1542337287953	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542337287960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56949
+1542337288899	Marionette	INFO	Listening on port 56949
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542337633514	geckodriver	INFO	Listening on 127.0.0.1:57191
+1542337636587	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.x3ToDfKdbEVf
+1542337636590	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542337636600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57199
+1542337637512	Marionette	INFO	Listening on port 57199
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+1542339631735	geckodriver	INFO	Listening on 127.0.0.1:57898
+1542339634814	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.IUlwInGLiLlu
+1542339634817	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542339634830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57906
+1542339635704	Marionette	INFO	Listening on port 57906
+1542339659001	geckodriver	INFO	Listening on 127.0.0.1:57942
+1542339662089	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.qfLxp1kkxLtp
+1542339662091	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542339662096	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57950
+1542339663177	Marionette	INFO	Listening on port 57950
+1542339827656	geckodriver	INFO	Listening on 127.0.0.1:58008
+1542339830717	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.4p9t0Bvdh83d
+1542339830719	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542339830727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58016
+1542339831770	Marionette	INFO	Listening on port 58016
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542339901707	geckodriver	INFO	Listening on 127.0.0.1:58073
+1542339904793	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.oUVXt1bAQliz
+1542339904796	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542339904808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58081
+1542339905817	Marionette	INFO	Listening on port 58081
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542340029922	geckodriver	INFO	Listening on 127.0.0.1:58185
+1542340033018	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.7ipT9qZoR9vW
+1542340033020	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542340033027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58195
+1542340033817	Marionette	INFO	Listening on port 58195
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542340271691	geckodriver	INFO	Listening on 127.0.0.1:58512
+1542340274749	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.OOmnrT7gBODr
+1542340274750	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542340274755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58520
+1542340275674	Marionette	INFO	Listening on port 58520
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542340438311	geckodriver	INFO	Listening on 127.0.0.1:58701
+1542340441382	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pg2N49PPJvkU
+1542340441385	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542340441390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58709
+1542340442608	Marionette	INFO	Listening on port 58709
+1542340461515	geckodriver	INFO	Listening on 127.0.0.1:58745
+1542340464588	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.i5QjPGMQsyVo
+1542340464590	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542340464597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58753
+1542340465454	Marionette	INFO	Listening on port 58753
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349411724	geckodriver	INFO	Listening on 127.0.0.1:60130
+1542349414791	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Ig89n29mVnDj
+1542349414793	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349414801	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60138
+1542349415747	Marionette	INFO	Listening on port 60138
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349472596	geckodriver	INFO	Listening on 127.0.0.1:60201
+1542349475687	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3Ay1tyhSipGm
+1542349475688	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349475695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60209
+1542349476746	Marionette	INFO	Listening on port 60209
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349599030	geckodriver	INFO	Listening on 127.0.0.1:60288
+1542349602094	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Mg2NMyA1bvlB
+1542349602096	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349602105	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60297
+1542349603193	Marionette	INFO	Listening on port 60297
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349713466	geckodriver	INFO	Listening on 127.0.0.1:60371
+1542349716558	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.xD4uZRw51xgD
+1542349716562	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349716570	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60379
+1542349717460	Marionette	INFO	Listening on port 60379
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349821493	geckodriver	INFO	Listening on 127.0.0.1:60486
+1542349824548	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.98Qu0EaEKcsr
+1542349824549	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349824554	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60497
+1542349825497	Marionette	INFO	Listening on port 60497
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542349956269	geckodriver	INFO	Listening on 127.0.0.1:60580
+1542349959333	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.8P8f374yeKrN
+1542349959335	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542349959341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60590
+1542349960411	Marionette	INFO	Listening on port 60590
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542350026149	geckodriver	INFO	Listening on 127.0.0.1:60663
+1542350029233	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.0JNTjXvwoGy3
+1542350029235	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542350029243	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60674
+1542350030283	Marionette	INFO	Listening on port 60674
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542350087749	geckodriver	INFO	Listening on 127.0.0.1:60746
+1542350090812	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.gyaIEpr7JyYG
+1542350090814	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542350090821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60755
+1542350091716	Marionette	INFO	Listening on port 60755
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542351893638	geckodriver	INFO	Listening on 127.0.0.1:61596
+1542351896688	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Mbpgol7QRONg
+1542351896689	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542351896695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61604
+1542351897503	Marionette	INFO	Listening on port 61604
+1542351979183	geckodriver	INFO	Listening on 127.0.0.1:61663
+1542351982291	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.2cOsaviTYfLw
+1542351982293	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542351982299	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61671
+1542351983151	Marionette	INFO	Listening on port 61671
+1542352292474	geckodriver	INFO	Listening on 127.0.0.1:61774
+1542352295533	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pzb2fhOtN8ON
+1542352295535	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352295543	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61783
+1542352296531	Marionette	INFO	Listening on port 61783
+1542352316969	geckodriver	INFO	Listening on 127.0.0.1:61819
+1542352320055	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.gIGIkPDaMSqs
+1542352320057	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352320064	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61829
+1542352320912	Marionette	INFO	Listening on port 61829
+1542352332625	geckodriver	INFO	Listening on 127.0.0.1:61848
+1542352335680	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.PN7bhoX7C7E8
+1542352335682	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352335688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61856
+1542352336758	Marionette	INFO	Listening on port 61856
+1542352395406	geckodriver	INFO	Listening on 127.0.0.1:61902
+1542352407068	geckodriver	INFO	Listening on 127.0.0.1:61909
+1542352410149	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.UynVawywT2cb
+1542352410151	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352410159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61917
+1542352411050	Marionette	INFO	Listening on port 61917
+1542352599712	geckodriver	INFO	Listening on 127.0.0.1:61983
+1542352602763	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.hC06cTt1TVxc
+1542352602765	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352602772	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61992
+1542352603747	Marionette	INFO	Listening on port 61992
+1542352619751	geckodriver	INFO	Listening on 127.0.0.1:62031
+1542352622807	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.B5oWG7U7p1YY
+1542352622809	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352622814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62039
+1542352623688	Marionette	INFO	Listening on port 62039
+1542352734205	geckodriver	INFO	Listening on 127.0.0.1:62106
+1542352737285	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tJqezwJ8Pr2Z
+1542352737287	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352737292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62114
+1542352738254	Marionette	INFO	Listening on port 62114
+1542352752761	geckodriver	INFO	Listening on 127.0.0.1:62151
+1542352755837	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.HUegmV8LVB1U
+1542352755839	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352755846	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62159
+1542352756759	Marionette	INFO	Listening on port 62159
+1542352866706	geckodriver	INFO	Listening on 127.0.0.1:62284
+1542352869781	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mDc5DkFUcKOb
+1542352869783	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542352869789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62294
+1542352870974	Marionette	INFO	Listening on port 62294
+1542353369466	geckodriver	INFO	Listening on 127.0.0.1:62459
+1542353372561	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.bOqQriqFPGtb
+1542353372565	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542353372577	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62468
+1542353373617	Marionette	INFO	Listening on port 62468
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542353398728	geckodriver	INFO	Listening on 127.0.0.1:62525
+1542353401759	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.SI8xkGNoENCn
+1542353401760	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542353401766	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62533
+1542353402661	Marionette	INFO	Listening on port 62533
+1542355173232	geckodriver	INFO	Listening on 127.0.0.1:63018
+1542355176296	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.aU7fBMmWzXPI
+1542355176298	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355176305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63026
+1542355177336	Marionette	INFO	Listening on port 63026
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542355201922	geckodriver	INFO	Listening on 127.0.0.1:63084
+1542355204997	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mLo356POpWH3
+1542355204998	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355205004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63092
+1542355205874	Marionette	INFO	Listening on port 63092
+1542355222740	geckodriver	INFO	Listening on 127.0.0.1:63130
+1542355225819	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.YoS5gb67g1dh
+1542355225822	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355225834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63138
+1542355226972	Marionette	INFO	Listening on port 63138
+1542355370698	geckodriver	INFO	Listening on 127.0.0.1:63194
+1542355373766	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.LOPWMyo93kmp
+1542355373768	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355373774	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63202
+1542355374741	Marionette	INFO	Listening on port 63202
+1542355399314	geckodriver	INFO	Listening on 127.0.0.1:63242
+1542355402389	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.P5MGCLXxOFUH
+1542355402390	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355402395	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63250
+1542355403360	Marionette	INFO	Listening on port 63250
+1542355419877	geckodriver	INFO	Listening on 127.0.0.1:63285
+1542355422956	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ZUOd9D3H1OTp
+1542355422959	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355422966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63293
+1542355424008	Marionette	INFO	Listening on port 63293
+1542355547711	geckodriver	INFO	Listening on 127.0.0.1:63350
+1542355550793	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.m8xbNRWcgV4V
+1542355550796	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355550802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63358
+1542355551726	Marionette	INFO	Listening on port 63358
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542355576543	geckodriver	INFO	Listening on 127.0.0.1:63412
+1542355579622	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tzQ33pIsQ0UQ
+1542355579625	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355579631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63420
+1542355580557	Marionette	INFO	Listening on port 63420
+1542355596886	geckodriver	INFO	Listening on 127.0.0.1:63461
+1542355599954	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.KMtsGyNMYHbP
+1542355599958	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355599969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63469
+1542355601042	Marionette	INFO	Listening on port 63469
+1542355721761	geckodriver	INFO	Listening on 127.0.0.1:63537
+1542355724838	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.WvjUwA2rPEin
+1542355724840	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355724847	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63545
+1542355725770	Marionette	INFO	Listening on port 63545
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542355751013	geckodriver	INFO	Listening on 127.0.0.1:63601
+1542355754087	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.8wA8CWtntp26
+1542355754089	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355754095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63609
+1542355755066	Marionette	INFO	Listening on port 63609
+1542355771626	geckodriver	INFO	Listening on 127.0.0.1:63648
+1542355774715	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.eQ7EfFigeCTd
+1542355774718	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355774722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63656
+1542355775690	Marionette	INFO	Listening on port 63656
+1542355902934	geckodriver	INFO	Listening on 127.0.0.1:63767
+1542355906011	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.NeI3cO49tcAe
+1542355906013	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355906020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63775
+1542355906932	Marionette	INFO	Listening on port 63775
+1542355962617	geckodriver	INFO	Listening on 127.0.0.1:63821
+1542355965695	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.N2JwSBqNGyI1
+1542355965699	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542355965711	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63830
+1542355966729	Marionette	INFO	Listening on port 63830
+1542356001885	geckodriver	INFO	Listening on 127.0.0.1:63869
+1542356004937	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.urI9mNTQ4iqb
+1542356004938	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542356004942	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63877
+1542356006023	Marionette	INFO	Listening on port 63877
+1542356603853	geckodriver	INFO	Listening on 127.0.0.1:64017
+1542356606932	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.V9irxS4urN82
+1542356606934	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542356606940	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64027
+1542356610725	geckodriver	INFO	Listening on 127.0.0.1:64035
+1542356613795	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.17lmqbKlWA2A
+1542356613796	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542356613802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64043
+1542356614877	Marionette	INFO	Listening on port 64043
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542356639453	geckodriver	INFO	Listening on 127.0.0.1:64109
+1542356642519	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5fwWDt3mRjT3
+1542356642521	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542356642529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64117
+1542356643454	Marionette	INFO	Listening on port 64117
+1542356660041	geckodriver	INFO	Listening on 127.0.0.1:64161
+1542356663096	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.LMxNUS9gkWT9
+1542356663100	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542356663110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64169
+1542356664052	Marionette	INFO	Listening on port 64169
+1542357501275	geckodriver	INFO	Listening on 127.0.0.1:64411
+1542357504345	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.zS1hOL4Ntc0E
+1542357504347	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542357504351	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64419
+1542357505249	Marionette	INFO	Listening on port 64419
+1542357533730	geckodriver	INFO	Listening on 127.0.0.1:64460
+1542357536774	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.r9abu8gUBo2t
+1542357536775	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542357536779	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64468
+1542357537725	Marionette	INFO	Listening on port 64468
+1542358532353	geckodriver	INFO	Listening on 127.0.0.1:64707
+1542358535442	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.rgXanR1WFW4m
+1542358535445	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358535458	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64715
+1542358536347	Marionette	INFO	Listening on port 64715
+1542358561003	geckodriver	INFO	Listening on 127.0.0.1:64769
+1542358564065	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.dxmbogxXMefD
+1542358564067	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358564072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64777
+1542358564940	Marionette	INFO	Listening on port 64777
+1542358581305	geckodriver	INFO	Listening on 127.0.0.1:64812
+1542358584351	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.dCi8cgT2SfvV
+1542358584353	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358584361	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64820
+1542358585142	Marionette	INFO	Listening on port 64820
+1542358840713	geckodriver	INFO	Listening on 127.0.0.1:64909
+1542358843787	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.0DBlnM5BKCT4
+1542358843789	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358843796	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64921
+1542358844607	Marionette	INFO	Listening on port 64921
+1542358870895	geckodriver	INFO	Listening on 127.0.0.1:64960
+1542358873977	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.YZHaecb4vCC6
+1542358873980	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358873992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64968
+1542358874909	Marionette	INFO	Listening on port 64968
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542358899708	geckodriver	INFO	Listening on 127.0.0.1:65020
+1542358902768	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Do2pscjKMxAC
+1542358902769	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358902775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65028
+1542358903797	Marionette	INFO	Listening on port 65028
+1542358921336	geckodriver	INFO	Listening on 127.0.0.1:65068
+1542358924405	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.yWyQpyhvVBrW
+1542358924407	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542358924414	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65076
+1542358925273	Marionette	INFO	Listening on port 65076
+1542359032657	geckodriver	INFO	Listening on 127.0.0.1:65130
+1542359035734	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.RNATRIkA1lfV
+1542359035738	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542359035749	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65138
+1542359036796	Marionette	INFO	Listening on port 65138
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542359061626	geckodriver	INFO	Listening on 127.0.0.1:65194
+1542359064685	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.rJ80r5dAQw6y
+1542359064687	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542359064695	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65202
+1542359065532	Marionette	INFO	Listening on port 65202
+1542359081933	geckodriver	INFO	Listening on 127.0.0.1:65238
+1542359085012	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.NbhbcoZyDRJF
+1542359085014	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542359085019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65246
+1542359085892	Marionette	INFO	Listening on port 65246
+1542359092536	geckodriver	INFO	Listening on 127.0.0.1:65279
+1542359095605	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ZAK0KqBE2mq9
+1542359095607	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542359095613	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65287
+1542359096569	Marionette	INFO	Listening on port 65287
+1542597607093	geckodriver	INFO	Listening on 127.0.0.1:55492
+1542597610123	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3AwYrPucRh9z
+1542597610125	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542597610130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55504
+1542597611048	Marionette	INFO	Listening on port 55504
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542597636687	geckodriver	INFO	Listening on 127.0.0.1:55594
+1542597639777	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Enp2hVyKj8Au
+1542597639780	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542597639789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55606
+1542597640670	Marionette	INFO	Listening on port 55606
+1542597657459	geckodriver	INFO	Listening on 127.0.0.1:55667
+1542597660494	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.KPQIKmfs7UrY
+1542597660496	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542597660501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55679
+1542597661370	Marionette	INFO	Listening on port 55679
+1542597668144	geckodriver	INFO	Listening on 127.0.0.1:55725
+1542597671219	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.FL9jIBpcDD0H
+1542597671221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542597671228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55738
+1542597672123	Marionette	INFO	Listening on port 55738
+1542598263616	geckodriver	INFO	Listening on 127.0.0.1:56733
+1542598266702	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.gABDGW5bvl8t
+1542598266703	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598266710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56745
+1542598267635	Marionette	INFO	Listening on port 56745
+JavaScript error: http://w.c-cnzz.com/cl.php, line 1: SyntaxError: expected expression, got '<'
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542598291839	geckodriver	INFO	Listening on 127.0.0.1:56834
+1542598294905	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.7my3xpzZx74L
+1542598294906	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598294911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56846
+1542598295761	Marionette	INFO	Listening on port 56846
+1542598311921	geckodriver	INFO	Listening on 127.0.0.1:56908
+1542598314968	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.yBjpnFnUUFfg
+1542598314969	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598314972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56922
+1542598315839	Marionette	INFO	Listening on port 56922
+1542598322226	geckodriver	INFO	Listening on 127.0.0.1:56968
+1542598325272	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Zh7b6H0RTZQ5
+1542598325274	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598325281	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56980
+1542598326301	Marionette	INFO	Listening on port 56980
+1542598400263	geckodriver	INFO	Listening on 127.0.0.1:57151
+1542598403350	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Xn15vbsPUf9o
+1542598403352	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598403358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57164
+1542598404430	Marionette	INFO	Listening on port 57164
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542598430848	geckodriver	INFO	Listening on 127.0.0.1:57266
+1542598433918	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3SJv3bjc0bZI
+1542598433919	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598433923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57278
+1542598434851	Marionette	INFO	Listening on port 57278
+1542598451375	geckodriver	INFO	Listening on 127.0.0.1:57344
+1542598454452	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.HxFOGtZJUmyv
+1542598454456	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598454468	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57357
+1542598455457	Marionette	INFO	Listening on port 57357
+1542598461837	geckodriver	INFO	Listening on 127.0.0.1:57402
+1542598464882	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.lJoiDo5ukAZ7
+1542598464883	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598464888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57415
+1542598465795	Marionette	INFO	Listening on port 57415
+1542598544526	geckodriver	INFO	Listening on 127.0.0.1:57573
+1542598547610	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.YhCXAMZPffAS
+1542598547613	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598547620	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57586
+1542598548511	Marionette	INFO	Listening on port 57586
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542598572911	geckodriver	INFO	Listening on 127.0.0.1:57672
+1542598575979	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.bMuKmD8LaliQ
+1542598575981	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598575988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57684
+1542598576944	Marionette	INFO	Listening on port 57684
+1542598593235	geckodriver	INFO	Listening on 127.0.0.1:57748
+1542598596297	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5U1tVWr7hsDB
+1542598596299	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598596307	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57761
+1542598597353	Marionette	INFO	Listening on port 57761
+1542598603518	geckodriver	INFO	Listening on 127.0.0.1:57808
+1542598606601	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.y36zqF16KMmZ
+1542598606603	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598606609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57821
+1542598607761	Marionette	INFO	Listening on port 57821
+1542598671941	geckodriver	INFO	Listening on 127.0.0.1:57962
+1542598675007	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.I1fTY5vN0ywJ
+1542598675009	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598675017	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57974
+1542598676086	Marionette	INFO	Listening on port 57974
+1542598699594	geckodriver	INFO	Listening on 127.0.0.1:58049
+1542598702674	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.TYPqA0jmVmoG
+1542598702677	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598702689	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58061
+1542598703567	Marionette	INFO	Listening on port 58061
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542598728415	geckodriver	INFO	Listening on 127.0.0.1:58152
+1542598731471	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Hiy7b1kWUsAF
+1542598731473	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598731480	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58174
+1542598732461	Marionette	INFO	Listening on port 58174
+1542598749378	geckodriver	INFO	Listening on 127.0.0.1:58239
+1542598752442	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Nh9nGRAimfAi
+1542598752444	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598752451	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58252
+1542598753292	Marionette	INFO	Listening on port 58252
+1542598759899	geckodriver	INFO	Listening on 127.0.0.1:58298
+1542598762987	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.J4wUrWhdCUxU
+1542598762989	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542598762995	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58310
+1542598764037	Marionette	INFO	Listening on port 58310
+1542599280411	geckodriver	INFO	Listening on 127.0.0.1:59278
+1542599283480	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.NnvjYEDgAE26
+1542599283482	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542599283489	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59292
+1542599284376	Marionette	INFO	Listening on port 59292
+1542599299414	geckodriver	INFO	Listening on 127.0.0.1:59352
+1542599302786	geckodriver	INFO	Listening on 127.0.0.1:59359
+1542599305863	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.jCQbA73TawVQ
+1542599305866	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542599305871	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59372
+1542599306749	Marionette	INFO	Listening on port 59372
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542599333300	geckodriver	INFO	Listening on 127.0.0.1:59461
+1542599336385	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.6UJubjxplCss
+1542599336388	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542599336400	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59474
+1542599337415	Marionette	INFO	Listening on port 59474
+1542599355309	geckodriver	INFO	Listening on 127.0.0.1:59538
+1542599358384	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.iyznzxLntkqW
+1542599358386	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542599358393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59553
+1542599359260	Marionette	INFO	Listening on port 59553
+1542599366005	geckodriver	INFO	Listening on 127.0.0.1:59598
+1542599369092	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.sAKz57spntDB
+1542599369094	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542599369101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59611
+1542599370190	Marionette	INFO	Listening on port 59611
+1542605845632	geckodriver	INFO	Listening on 127.0.0.1:51044
+1542605848708	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.HzJBi0qp7eZd
+1542605848711	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542605848718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51056
+1542605849636	Marionette	INFO	Listening on port 51056
+1542605924865	geckodriver	INFO	Listening on 127.0.0.1:51241
+1542605927924	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.q2H1icb76YkB
+1542605927926	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542605927932	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51254
+1542605928824	Marionette	INFO	Listening on port 51254
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542605954943	geckodriver	INFO	Listening on 127.0.0.1:51345
+1542605958030	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tuxTR6y4EvO4
+1542605958033	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542605958040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51357
+1542605959001	Marionette	INFO	Listening on port 51357
+1542605977508	geckodriver	INFO	Listening on 127.0.0.1:51423
+1542605980577	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.hMsxqNlbJmwW
+1542605980580	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542605980591	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51435
+1542605981439	Marionette	INFO	Listening on port 51435
+1542605988389	geckodriver	INFO	Listening on 127.0.0.1:51482
+1542605991470	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ncE4dzHyrV9K
+1542605991472	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542605991480	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51495
+1542605992420	Marionette	INFO	Listening on port 51495
+1542606064989	geckodriver	INFO	Listening on 127.0.0.1:51637
+1542606068084	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.XCVgrc0fP6f4
+1542606068086	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542606068091	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51649
+1542606069053	Marionette	INFO	Listening on port 51649
+Performance warning: Async animation disabled because frame size (14988, 400) is bigger than the viewport (1427, 864) or the visual rectangle (14988, 400) is larger than the max allowable value (17895698) [ul]
+1542606093863	geckodriver	INFO	Listening on 127.0.0.1:51738
+1542606096921	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.p7qtD344BhEF
+1542606096922	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542606096929	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51751
+1542606097774	Marionette	INFO	Listening on port 51751
+1542606114178	geckodriver	INFO	Listening on 127.0.0.1:51813
+1542606117279	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5YIFli4shWqu
+1542606117280	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542606117284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51825
+1542606118406	Marionette	INFO	Listening on port 51825
+1542606124709	geckodriver	INFO	Listening on 127.0.0.1:51872
+1542606127785	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5gp4P3bRWIG0
+1542606127786	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1542606127792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51884
+1542606128787	Marionette	INFO	Listening on port 51884
+1544462993861	geckodriver	INFO	Listening on 127.0.0.1:54905
+1544462997003	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.K2BknNaBrzs2
+1544462997012	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1544462997021	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54920
+1544462998193	Marionette	INFO	Listening on port 54920
+1544463005391	geckodriver	INFO	Listening on 127.0.0.1:54970
+1544463008417	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.KhqhZ62vKx0t
+1544463008419	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1544463008425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54986
+1544463009356	Marionette	INFO	Listening on port 54986
+1544463014327	geckodriver	INFO	Listening on 127.0.0.1:55028
+1544463017374	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.BiuMUFSrvAkY
+1544463017376	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1544463017383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55044
+1544463018366	Marionette	INFO	Listening on port 55044
+1544463024274	geckodriver	INFO	Listening on 127.0.0.1:55086
+1544463027350	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.CPg1OQHXwrIw
+1544463027354	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1544463027361	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55101
+1544463028550	Marionette	INFO	Listening on port 55101

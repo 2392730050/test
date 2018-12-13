@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="0" failures="2" finished="true" name="Test Run: 49" tests="2" total_time="Finished in: 0.65 secs."/>
+<test location="D:\python\requests1\test\test_request\request_case.py" status="fail" test="request_case.test_one" time="">
+<stdout><![CDATA[https://www.apiopen.top/createUser?key=00d91e8e0cca2b76f515926a36db68f5&phone%3A13594347817=passwd%3D123654
+{"code":202,"msg":"&#21442;&#25968;&#24322;&#24120;&#65306;key,phone,passwd &#21442;&#25968;&#26159;&#24517;&#39035;&#39033;&#65281;","data":null}
+&#38142;&#25509;&#22833;&#36133;
+close
+]]></stdout>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "D:\python\requests1\test\test_request\request_case.py", line 21, in test_one
+    self.assertEqual(self.request['msg'], '&#29992;&#25143;&#24050;&#27880;&#20876;&#65281;', '&#22833;&#36133;')
+AssertionError: '&#21442;&#25968;&#24322;&#24120;&#65306;key,phone,passwd &#21442;&#25968;&#26159;&#24517;&#39035;&#39033;&#65281;' != '&#29992;&#25143;&#24050;&#27880;&#20876;&#65281;'
+- &#21442;&#25968;&#24322;&#24120;&#65306;key,phone,passwd &#21442;&#25968;&#26159;&#24517;&#39035;&#39033;&#65281;
++ &#29992;&#25143;&#24050;&#27880;&#20876;&#65281;
+ : &#22833;&#36133;
+]]></stderr>
+</test>
+<test location="D:\python\requests1\test\test_request\request_case.py" status="fail" test="request_case.test_two" time="">
+<stdout><![CDATA[{"code":202,"msg":"&#21442;&#25968;&#24322;&#24120;&#65306;key,phone,passwd &#21442;&#25968;&#26159;&#24517;&#39035;&#39033;&#65281;","data":null}
+https://www.apiopen.top/createUser?key=00d91e8e0cca2b76f515926a36db68f5&phone%3A183498888=passwd%3D123654
+close
+]]></stdout>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "D:\python\requests1\test\test_request\request_case.py", line 28, in test_two
+    self.assertCountEqual(self.request1['msg'], '&#25104;&#21151;!', )
+AssertionError: Element counts were not equal:
+
+Diff is 831 characters long. Set self.maxDiff to None to see it.
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="requests1 request_case.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

@@ -1,0 +1,64 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\firstpython\com.python.pydev.analysis\v2_indexcache
+TestCase.select_fruit.__init__|1507787892845959000|D:\java note\firstpython\TestCase\select_fruit\__init__.py
+common.__init__|1507766896237750000|D:\java note\firstpython\common\__init__.py
+common.browser_engine|1507779893618792000|D:\java note\firstpython\common\browser_engine.py
+common.driver_util|1507792359470067000|D:\java note\firstpython\common\driver_util.py
+Page.checkfruit|1507789355108662000|D:\java note\firstpython\Page\checkfruit.py
+config.__init__|1507766117011965000|D:\java note\firstpython\config\__init__.py
+Page.__init__|1507769235632248000|D:\java note\firstpython\Page\__init__.py
+Page.base_page|1516716784211426000|D:\java note\firstpython\Page\base_page.py
+TestCase.select_fruit.select_fruit|1507792999017132000|D:\java note\firstpython\TestCase\select_fruit\select_fruit.py
+config.config|1507786379909487000|D:\java note\firstpython\config\config.py
+TestCase.__init__|1507692848061547000|D:\java note\firstpython\TestCase\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+2=common.browser_engine
+11=select_fruit.setUp
+5=common.driver_util
+7=base_page
+13=select_fruit
+1=Page.base_page
+4=config.config
+14=driver_util
+8=checkfruit
+10=base_page.__init__
+3=Page.checkfruit
+12=browser_engine
+6=TestCase.select_fruit.select_fruit
+9=config
+-- END DICTIONARY
+-- START TREE 1
+6
+bas|1|base_page!9@
+bro|1|browser_engine!17@
+che|1|checkfruit!25@
+con|1|config!33@
+dri|1|driver_util!41@
+sel|1|select_fruit!49@
+-- END TREE
+-- START TREE 2
+20
+__i|1|__init__!7&10@
+app|1|apples!8&27@
+bro|1|browser_type!9&35@
+cli|1|click!7&10@
+clo|1|close!7&10@
+dri|2|driver!10&11@driver!11&51@
+fin|1|find_element!7&10@
+gra|1|grapes!8&27@
+mel|1|melons!8&27@
+ope|1|open_browser!12&18@
+ora|1|oranges!8&27@
+qui|1|quit_broswer!12&18@
+sel|1|select_fruit!8&26@
+set|1|setUp!13&50@
+sle|1|sleep!7&10@
+sub|2|submit_fruit!8&26@submit!8&27@
+tea|1|tearDwon!13&50@
+tes|1|testSeclectFruit!13&50@
+url|1|url!9&35@
+ver|1|verify_contain_content!14&42@
+-- END TREE

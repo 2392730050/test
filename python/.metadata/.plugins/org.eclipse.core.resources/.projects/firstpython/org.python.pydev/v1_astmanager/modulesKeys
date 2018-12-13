@@ -1,0 +1,12 @@
+MODULES_MANAGER_V2
+Page.__init__|D:\java note\firstpython\Page\__init__.py
+Page.base_page|D:\java note\firstpython\Page\base_page.py
+Page.checkfruit|D:\java note\firstpython\Page\checkfruit.py
+TestCase.__init__|D:\java note\firstpython\TestCase\__init__.py
+TestCase.select_fruit.__init__|D:\java note\firstpython\TestCase\select_fruit\__init__.py
+TestCase.select_fruit.select_fruit|D:\java note\firstpython\TestCase\select_fruit\select_fruit.py
+common.__init__|D:\java note\firstpython\common\__init__.py
+common.browser_engine|D:\java note\firstpython\common\browser_engine.py
+common.driver_util|D:\java note\firstpython\common\driver_util.py
+config.__init__|D:\java note\firstpython\config\__init__.py
+config.config|D:\java note\firstpython\config\config.py

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;java note/qianji/src/login/login_page1.py&apos; to &apos;login_Successful.py&apos;" description="Rename resource &apos;login_page1.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="qianji/src/login/login_page1.py" name="login_Successful.py" stamp="1542271093569" updateReferences="true"/>
+</session>

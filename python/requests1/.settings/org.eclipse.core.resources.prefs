@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//test/test_request/mi.py=utf-8
+encoding//test/test_request/test_login.py=utf-8
+encoding//test/test_request/test_register.py=gbk
+encoding//test/test_request/test_report.py=gbk

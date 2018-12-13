@@ -1,0 +1,109 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\guest\com.python.pydev.analysis\v2_indexcache
+blog.apps|1541592259313900000|D:\java note\guest\src\blog\apps.py
+blog.models|1541592259314900000|D:\java note\guest\src\blog\models.py
+sign.migrations.0001_initial|1530803848351751000|D:\java note\guest\src\sign\migrations\0001_initial.py
+Django.views|1541591819891767000|D:\java note\guest\src\Django\views.py
+sign.admin|1531315977674124000|D:\java note\guest\src\sign\admin.py
+blog.tests|1541592259314900000|D:\java note\guest\src\blog\tests.py
+blog.admin|1541592259313900000|D:\java note\guest\src\blog\admin.py
+guest.__init__|1529503948420971000|D:\java note\guest\src\guest\__init__.py
+blog.views|1541592259315901000|D:\java note\guest\src\blog\views.py
+Django.__init__|1541591819892767000|D:\java note\guest\src\Django\__init__.py
+Django.admin|1541591819889767000|D:\java note\guest\src\Django\admin.py
+blog.__init__|1541592259315901000|D:\java note\guest\src\blog\__init__.py
+sign.tests|1531316288554868000|D:\java note\guest\src\sign\tests.py
+Django.models|1541591819890767000|D:\java note\guest\src\Django\models.py
+guest.wsgi|1529503948417970000|D:\java note\guest\src\guest\wsgi.py
+Django.apps|1541591819890767000|D:\java note\guest\src\Django\apps.py
+blog.migrations.__init__|1541592259316901000|D:\java note\guest\src\blog\migrations\__init__.py
+Django.migrations.__init__|1541591819893767000|D:\java note\guest\src\Django\migrations\__init__.py
+sign.__init__|1529504351694036000|D:\java note\guest\src\sign\__init__.py
+sign.apps|1529504351678036000|D:\java note\guest\src\sign\apps.py
+manage|1529503948384968000|D:\java note\guest\src\manage.py
+sign.models|1543222064182330000|D:\java note\guest\src\sign\models.py
+Django.tests|1541591819891767000|D:\java note\guest\src\Django\tests.py
+sign.views|1530716779814872000|D:\java note\guest\src\sign\views.py
+guest.urls|1530716509925485000|D:\java note\guest\src\guest\urls.py
+guest.settings|1530108861273797000|D:\java note\guest\src\guest\settings.py
+sign.migrations.__init__|1529504351699037000|D:\java note\guest\src\sign\migrations\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+21
+4=blog.apps
+21=Meta
+8=sign.migrations.0001_initial
+16=Gusetadmin
+7=sign.admin
+10=sign.apps
+14=Migration
+13=Guest
+19=BlogConfig
+17=DjangoConfig
+18=SignConfig
+1=sign.models
+15=eventadmin
+9=sign.tests
+6=sign.views
+12=Event
+20=model
+3=guest.wsgi
+5=Django.apps
+11=guest.urls
+2=guest.settings
+-- END DICTIONARY
+-- START TREE 1
+28
+__s|1|__str__!10@
+all|1|ALLOWED_HOSTS!19@
+app|1|application!27@
+aut|1|AUTH_PASSWORD_VALIDATORS!19@
+bas|1|BASE_DIR!19@
+blo|1|BlogConfig!33@
+dat|1|DATABASES!19@
+deb|1|DEBUG!19@
+dja|1|DjangoConfig!41@
+eve|3|Event!9@eve!50@eventadmin!57@
+gue|1|Guest!9@
+gus|1|Gusetadmin!57@
+ins|1|INSTALLED_APPS!19@
+lan|1|LANGUAGE_CODE!19@
+log|2|login!50@login_action!50@
+met|1|Meta!9@
+mid|1|MIDDLEWARE!19@
+mig|1|Migration!65@
+mod|1|model!73@
+roo|1|ROOT_URLCONF!19@
+sec|1|SECRET_KEY!19@
+sig|1|SignConfig!81@
+sta|1|STATIC_URL!19@
+tem|1|TEMPLATES!19@
+tim|1|TIME_ZONE!19@
+url|1|urlpatterns!91@
+use|3|USE_I18N!19@USE_TZ!19@USE_L10N!19@
+wsg|1|WSGI_APPLICATION!19@
+-- END TREE
+-- START TREE 2
+20
+__s|1|__str__!12&10@
+add|1|address!12&11@
+cal|1|call_now!13&11@
+cre|1|create_tme!12&11@
+dep|1|dependencies!14&67@
+ema|1|email!13&11@
+eve|1|event!13&11@
+ini|1|initial!14&67@
+lim|1|limit!12&11@
+lis|4|list_display!15&59@list_filter!15&59@list_display!16&59@list_filter!16&59@
+nam|4|name!17&43@name!12&11@name!18&83@name!19&35@
+ope|1|operations!14&67@
+pho|1|phone!13&11@
+rea|1|realname!13&11@
+sea|2|search_fields!15&59@search_fields!16&59@
+set|1|setUp!20&74@
+sig|1|sign!13&11@
+sta|2|status!12&11@start_time!12&11@
+tes|2|test_event!20&74@test_Guest!20&74@
+uni|1|unique_together!21&11@
+-- END TREE

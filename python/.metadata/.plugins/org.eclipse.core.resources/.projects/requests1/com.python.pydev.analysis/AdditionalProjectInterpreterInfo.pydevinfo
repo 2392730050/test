@@ -1,0 +1,60 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\requests1\com.python.pydev.analysis\v2_indexcache
+test_request.test_report|1544001502798164000|D:\python\requests1\test\test_request\test_report.py
+test_request.mi|1544436602032225000|D:\python\requests1\test\test_request\mi.py
+test_request.test_login|1543974320897449000|D:\python\requests1\test\test_request\test_login.py
+test_request.__init__|1543890194784217000|D:\python\requests1\test\test_request\__init__.py
+test_request.test_register|1543908114759181000|D:\python\requests1\test\test_request\test_register.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+11=test_login.test_login3
+9=test_login.test_login2
+13=test_login.test_login4
+8=test_login.test_login1
+16=request_case
+2=test_request.test_report
+7=request_case.test_1
+1=test_request.mi
+10=request_case.test_2
+12=request_case.test_3
+6=test_login.setUp
+14=request_case.test_4
+4=test_request.test_login
+5=request_case.setUp
+3=test_request.test_register
+15=test_login
+-- END DICTIONARY
+-- START TREE 1
+15
+a|1|a!11@
+b|1|b!11@
+cli|1|client!19@
+dis|1|discover!19@
+fil|2|filename1!19@filename!27@
+jpg|1|jpgpart!19@
+msg|1|msg!19@
+now|2|now!27@now!19@
+pas|1|password!19@
+rec|1|receivers!19@
+req|1|request_case!25@
+sen|1|sender!19@
+sui|1|suite!27@
+tes|2|test_login!33@test_dir!19@
+use|1|username!19@
+-- END TREE
+-- START TREE 2
+11
+adm|4|admin!5&27@admin2!5&27@admin3!5&27@admin1!5&27@
+log|4|login1!6&35@login2!6&35@login4!6&35@login3!6&35@
+r|2|r!7&27@r!8&35@
+r1|2|r1!9&35@r1!10&27@
+r2|2|r2!11&35@r2!12&27@
+r3|2|r3!13&35@r3!14&27@
+req|8|request1!9&35@request!8&35@request3!13&35@request!7&27@request2!12&27@request2!11&35@request1!10&27@request3!14&27@
+set|2|setUp!15&34@setUp!16&26@
+tea|2|tearDown!15&34@tearDown!16&26@
+tes|8|test_login2!15&34@test_login4!15&34@test_1!16&26@test_3!16&26@test_login1!15&34@test_login3!15&34@test_2!16&26@test_4!16&26@
+url|2|url!5&27@url!6&35@
+-- END TREE

@@ -1,0 +1,59 @@
+# coding=gbk
+from django.shortcuts import render
+from django.http import HttpResponse,HttpResponseRedirect
+from django.contrib.auth.decorators import login_required
+from sign.models import  Event,Guest
+# Create your views here.
+def index(request):
+    return HttpResponse("Django")
+    
+def index1(request):
+    return render(request,"Djangopage.html")
+
+def login_action(request):
+    if request.method == "psot":
+        username = request.POST.get('username','')
+        password = request.POST.get('password','')
+    if username == "admin" and password == "admin123":
+        return HttpResponseRedirect("/event_mange/")
+    else:
+        return render(request,"Djangopage.html","用户名或密码错误")
+
+
+#导入Model中的Guest类 通过Guest.Objects.all()查询所有嘉宾对象(数据)
+#并通过render()方法附加在guest_manage.html页面并返回客服端
+@login_required
+def guest_manage(request):
+    username=request.session.get('user','')
+    guest_list=Guest.objects.all()
+    event_list=Event.objects.all()
+    return render(request,'guest_manage.html',{'user':username,'guests':guest_list})
+
+@login_required
+def event_manage(request):
+    username=request.session.get('user','')
+    event_list=Event.objects.all()
+    return render(request,'guest_manage.html',{'user':username,'guests':event_list})
+@login_required
+# 嘉宾手机号的查询
+@login_required
+def search_phone(request):
+    username = request.session.get('username', '')
+    search_phone = request.GET.get("phone", "")
+    search_name_bytes = search_phone.encode(encoding="utf-8")
+    guest_list = Guest.objects.filter(phone__contains=search_name_bytes)
+
+    paginator = Paginator(guest_list, 10)
+    page = request.GET.get('page')
+    try:
+        contacts = paginator.page(page)
+    except PageNotAnInteger:
+        # If page is not an integer, deliver first page.
+        contacts = paginator.page(1)
+    except EmptyPage:
+        # If page is out of range (e.g. 9999), deliver last page of results.
+        contacts = paginator.page(paginator.num_pages)
+
+    return render(request, "guest_manage.html", {"user": username,
+                                                   "guests": contacts,
+                                                   "phone":search_phone})

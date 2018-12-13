@@ -1,0 +1,37 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\adminrequest\com.python.pydev.analysis\v2_indexcache
+request2|1535896772021284000|D:\java note\adminrequest\src\request2.py
+request1|1541589671346877000|D:\java note\adminrequest\src\request1.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+6=admin.test_add3
+3=admin.setUp
+7=admin
+2=request2
+5=admin.test_add2
+1=request1
+4=admin.test_add
+-- END DICTIONARY
+-- START TREE 1
+6
+adm|1|admin!9@
+dat|1|dataplay!19@
+fil|1|filename1!11@
+now|1|now!11@
+p1|1|p1!19@
+tes|1|testadmin!11@
+-- END TREE
+-- START TREE 2
+9
+dat|2|dataplay!3&11@dataplay1!3&11@
+p1|1|p1!4&11@
+p2|2|p2!5&11@p2!6&11@
+p3|2|p3!5&11@p3!6&11@
+p4|1|p4!6&11@
+set|1|setUp!7&10@
+tea|1|tearDown!7&10@
+tes|3|test_add3!7&10@test_add!7&10@test_add2!7&10@
+url|1|url!3&11@
+-- END TREE

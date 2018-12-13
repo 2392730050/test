@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+test_first.Test_Three|D:\python\pytest\src\test_first\Test_Three.py
+test_first.__init__|D:\python\pytest\src\test_first\__init__.py
+test_first.conftest|D:\python\pytest\src\test_first\conftest.py
+test_first.test_one|D:\python\pytest\src\test_first\test_one.py
+test_first.test_two|D:\python\pytest\src\test_first\test_two.py

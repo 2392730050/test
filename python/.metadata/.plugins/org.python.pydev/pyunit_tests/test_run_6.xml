@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 55" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="D:\python\requests1\test\test_request\tes_report.py" status="error" test="tes_report" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\Administrator\.p2\pool\plugins\org.python.pydev_5.2.0.201608171824\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "D:/python/requests1/test/test_request\tes_report.py", line 7, in <module>
+    discover=unittest.defaultTestLoader.discover(test_dir, pattern='test_*.py' )
+  File "D:\python3.7\lib\unittest\loader.py", line 338, in discover
+    raise ImportError('Start directory is not importable: %r' % start_dir)
+ImportError: Start directory is not importable: './test_request'
+ERROR: Module: tes_report could not be imported (file: D:\python\requests1\test\test_request\tes_report.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="requests1 tes_report.py (1)"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
